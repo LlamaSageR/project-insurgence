@@ -7,11 +7,10 @@ export const Formats: FormatList = [
 		section: "Insurgence",
 		column: 3,
 	},
-    
     {
-		name: "Insurgence Pure Hackmons",
-		desc: `Anything that can exists is allowed.`,
+		name: "[Insurgence] Pure Hackmons",
+		desc: `Anything that can exist is allowed.`,
 		mod: 'insurgence',
-		ruleset: ['-Nonexistent', 'Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Endless Battle Clause', 'EV limit = 510'],
+		ruleset: ['-Nonexistent', 'Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Endless Battle Clause'],
 	},
 ];
