@@ -3,4 +3,8 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		inherit: true,
 		abilities: {0: "Multitype", H: "Protean"},
 	},
+	bulbasaur: {
+		inherit: true,
+		types: ["Fairy", "Grass"]
+	}
 };
