@@ -11,6 +11,6 @@ export const Formats: FormatList = [
 		name: "[Insurgence] Pure Hackmons",
 		desc: `Anything that can exist is allowed.`,
 		mod: 'insurgence',
-		ruleset: ['-Nonexistent', 'Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Endless Battle Clause'],
+		ruleset: ['-Nonexistent', 'Team Preview', '!! Adjust Level = 120', 'HP Percentage Mod', 'Cancel Mod', 'Endless Battle Clause'],
 	},
 ];
