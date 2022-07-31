@@ -1,0 +1,10 @@
+{
+  "restartable": "rs",
+  "ignore": [
+    "config/chatrooms.json",
+    "config/chat-plugins/"
+  ],
+  "verbose": true,
+  "ext": "js,json,ts",
+  "delay": "3000"
+}
