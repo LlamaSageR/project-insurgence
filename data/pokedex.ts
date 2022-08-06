@@ -17666,4 +17666,26 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+
+	//
+	//	Pokemon Insurgence Pokedex
+	//
+
+	deltacharizard: {
+		num: 6,
+		name: "Delta Charizard",
+		types: ["Ghost", "Dragon"],
+		genderRatio: {M: 0.875, F: 0.125},
+		baseStats: {hp: 78, atk: 84, def: 78, spa: 109, spd: 85, spe: 100},
+		abilities: {0: "Blaze", H: "Solar Power"},
+		heightm: 1.7,
+		weightkg: 90.5,
+		color: "Black",
+		prevo: "Charmeleon",
+		evoType: "useItem",
+		evoItem: "Dusk Stone",
+		eggGroups: ["Undiscovered"],
+		otherFormes: ["Charizard-Mega-X", "Charizard-Mega-Y"],
+	},
+
 };

@@ -3674,4 +3674,11 @@ export const PokedexText: {[k: string]: PokedexText} = {
 	pokestarufopropu2: {
 		name: "Pokestar UFO-PropU2",
 	},
+
+	//
+	// Pokemon Insurgence Pokedex
+	//
+	deltacharizard: {
+		name: "Delta Charizard",
+	},
 };
